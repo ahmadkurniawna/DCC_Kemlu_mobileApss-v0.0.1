@@ -1,0 +1,7 @@
+{
+  "name": "iframe_kemlu1",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
